@@ -1,0 +1,11 @@
+C:\MVS-workspace\dotnet\branches-quickstart\bin\Debug\netcoreapp2.1\BranchesAndLoops.deps.json
+C:\MVS-workspace\dotnet\branches-quickstart\bin\Debug\netcoreapp2.1\BranchesAndLoops.runtimeconfig.json
+C:\MVS-workspace\dotnet\branches-quickstart\bin\Debug\netcoreapp2.1\BranchesAndLoops.runtimeconfig.dev.json
+C:\MVS-workspace\dotnet\branches-quickstart\bin\Debug\netcoreapp2.1\BranchesAndLoops.dll
+C:\MVS-workspace\dotnet\branches-quickstart\bin\Debug\netcoreapp2.1\BranchesAndLoops.pdb
+C:\MVS-workspace\dotnet\branches-quickstart\obj\Debug\netcoreapp2.1\BranchesAndLoops.csprojAssemblyReference.cache
+C:\MVS-workspace\dotnet\branches-quickstart\obj\Debug\netcoreapp2.1\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\MVS-workspace\dotnet\branches-quickstart\obj\Debug\netcoreapp2.1\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\MVS-workspace\dotnet\branches-quickstart\obj\Debug\netcoreapp2.1\BranchesAndLoops.AssemblyInfo.cs
+C:\MVS-workspace\dotnet\branches-quickstart\obj\Debug\netcoreapp2.1\BranchesAndLoops.dll
+C:\MVS-workspace\dotnet\branches-quickstart\obj\Debug\netcoreapp2.1\BranchesAndLoops.pdb
